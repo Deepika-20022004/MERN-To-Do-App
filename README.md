@@ -21,12 +21,20 @@ This is a simple To-Do application built using the MERN stack (MongoDB, Express.
 1. Clone the repository
 2. Navigate to the project directory
 3. Start the server
-    >cd server
-    >node server.js
+    ```
+    cd server
+    ```
+    ```
+    node server.js
+    ```
 4. Open a new terminal and start the client
-    >cd client
-    >npm run dev
-5. Click on the link provided in the terminal to open the application in your browser 
+5. ```
+    cd client
+   ```
+   ```
+    npm run dev
+   ```
+6. Click on the link provided in the terminal to open the application in your browser 
 
 ## Output Screenshots
 
