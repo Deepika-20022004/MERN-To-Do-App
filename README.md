@@ -23,6 +23,9 @@ This is a simple To-Do application built using the MERN stack (MongoDB, Express.
     git clone https://github.com/Deepika-20022004/MERN-To-Do-App.git
     ```
 2. Navigate to the project directory
+   ```
+   cd MERN-To-Do-App
+   ```
 3. Start the server
     ```
     cd server
@@ -37,7 +40,7 @@ This is a simple To-Do application built using the MERN stack (MongoDB, Express.
    ```
     npm run dev
    ```
-6. Click on the link provided in the terminal to open the application in your browser 
+5. Click on the link provided in the terminal to open the application in your browser 
 
 ## Output Screenshots
 
