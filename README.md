@@ -39,19 +39,19 @@ This is a simple To-Do application built using the MERN stack (MongoDB, Express.
 ## Output Screenshots
 
 - Initial view:
-![alt text](client/image.png)
-![alt text](client/image-6.png)
+![alt text](images/image.png)
+![alt text](images/image-6.png)
 
 - CREATE and READ:
-![alt text](client/image-1.png)
-![alt text](client/image-7.png)
+![alt text](images/image-1.png)
+![alt text](images/image-7.png)
 
 - UPDATE:
-![alt text](client/image-2.png)
-![alt text](client/image-3.png)
-![alt text](client/image-4.png)
-![alt text](client/image-8.png)
+![alt text](images/image-2.png)
+![alt text](images/image-3.png)
+![alt text](images/image-4.png)
+![alt text](images/image-8.png)
 
 - DELETE:
-![alt text](client/image-5.png)
-![alt text](client/image-9.png)
+![alt text](images/image-5.png)
+![alt text](images/image-9.png)
